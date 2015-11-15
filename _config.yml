@@ -1,0 +1,11 @@
+title: Devexp
+email: toni.vdv@gmail.com
+description: "DEVelopment EXPerience, shared with the world!"
+baseurl: "" 
+url: "http://www.devexp.eu"
+twitter_username: tonivdv
+github_username:  tonivdv
+
+markdown: kramdown
+
+highlighter: pygments
