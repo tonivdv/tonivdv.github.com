@@ -8,4 +8,6 @@ github_username:  tonivdv
 
 markdown: kramdown
 
+exclude:   [ README.md, Gemfile, vendor, .*, bower.json ]
+
 highlighter: pygments
