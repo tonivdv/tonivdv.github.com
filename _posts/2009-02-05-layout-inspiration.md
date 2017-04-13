@@ -1,6 +1,6 @@
 ---
 title: layout inspiration
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/02/05/layout-inspiration/
 categories:

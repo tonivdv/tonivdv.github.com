@@ -1,6 +1,6 @@
 ---
 title: the future of web development
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/05/28/the-future-of-web-development/
 syntaxhighlighter_encoded:

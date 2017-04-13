@@ -1,6 +1,6 @@
 ---
 title: Google Firewall problem
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/08/28/google-roof-fire/
 syntaxhighlighter_encoded:

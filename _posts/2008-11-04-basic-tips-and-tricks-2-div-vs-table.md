@@ -1,6 +1,6 @@
 ---
 title: 'basic tips and tricks: 2. DIV vs. TABLE'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/11/04/basic-tips-and-tricks-2-div-vs-table/
 syntaxhighlighter_encoded:

@@ -1,6 +1,6 @@
 ---
 title: the twittersphere
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/03/31/the-twittersphere/
 syntaxhighlighter_encoded:

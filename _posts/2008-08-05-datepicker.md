@@ -1,6 +1,6 @@
 ---
 title: UI/Datepicker
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/08/05/datepicker/
 categories:

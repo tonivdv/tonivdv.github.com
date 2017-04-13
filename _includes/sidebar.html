@@ -1,0 +1,50 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}" href="/">Home</a>
+
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
+
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" or node.layout == "trip" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    <span class="sidebar-nav-item">
+      <i class="fa fa-external-link"></i>&nbsp;<a href="http://fr.linkedin.com/in/tonivandevoorde">About</a>
+    </span>
+
+    <span class="sidebar-nav-item">
+      <i class="fa fa-external-link"></i>&nbsp;<a href="/atom.xml">RSS</a>
+    </span>
+  </nav>
+
+  <div class="sidebar-item">
+    <ul class="social-links">
+      <li>
+        <i class="fa fa-github"></i>&nbsp;<a href="http://www.github.com/tonivdv">GitHub</a>
+      </li>
+      <li>
+        <i class="fa fa-linkedin"></i>&nbsp;<a href="http://linkedin.com/in/tonivandevoorde">LinkedIn</a>
+      </li>
+      <li>
+        <i class="fa fa-twitter"></i>&nbsp;<a href="http://www.twitter.com/tonivdv">Twitter</a>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -1,6 +1,6 @@
 ---
 title: 'Interview: Jacob Gube'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/09/23/interview-jacob-gube/
 syntaxhighlighter_encoded:

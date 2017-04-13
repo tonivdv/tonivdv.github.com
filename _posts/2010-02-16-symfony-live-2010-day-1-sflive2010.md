@@ -1,6 +1,6 @@
 ---
 title: 'Symfony Live 2010 &#8211; day 1 #sflive2010'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2010/02/16/symfony-live-2010-day-1-sflive2010/
 categories:

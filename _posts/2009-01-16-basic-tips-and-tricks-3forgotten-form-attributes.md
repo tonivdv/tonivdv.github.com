@@ -1,6 +1,6 @@
 ---
 title: 'basic tips and tricks: 3.Forgotten form attributes'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/01/16/basic-tips-and-tricks-3forgotten-form-attributes/
 syntaxhighlighter_encoded:

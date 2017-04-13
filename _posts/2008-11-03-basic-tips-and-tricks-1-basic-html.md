@@ -1,6 +1,6 @@
 ---
 title: 'basic tips and tricks: 1. Basic HTML'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/11/03/basic-tips-and-tricks-1-basic-html/
 syntaxhighlighter_encoded:

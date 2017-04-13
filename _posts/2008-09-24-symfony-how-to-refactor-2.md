@@ -1,6 +1,6 @@
 ---
 title: 'Symfony: How to refactor'
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2008/09/24/symfony-how-to-refactor-2/
 categories:

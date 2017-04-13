@@ -1,6 +1,6 @@
 ---
 title: enhance your css
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/03/19/enhance-your-css/
 categories:

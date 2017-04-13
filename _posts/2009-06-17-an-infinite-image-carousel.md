@@ -1,6 +1,6 @@
 ---
 title: an infinite image carousel
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/06/17/an-infinite-image-carousel/
 syntaxhighlighter_encoded:

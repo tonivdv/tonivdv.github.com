@@ -1,6 +1,6 @@
 ---
 title: The website is down
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/07/10/the-website-is-down/
 syntaxhighlighter_encoded:

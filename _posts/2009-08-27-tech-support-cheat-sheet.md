@@ -1,6 +1,6 @@
 ---
 title: Tech Support Cheat Sheet
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2009/08/27/tech-support-cheat-sheet/
 syntaxhighlighter_encoded:

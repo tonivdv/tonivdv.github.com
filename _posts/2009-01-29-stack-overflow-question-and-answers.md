@@ -1,6 +1,6 @@
 ---
 title: 'Stack Overflow: question and answers'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/01/29/stack-overflow-question-and-answers/
 categories:

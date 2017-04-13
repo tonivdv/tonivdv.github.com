@@ -1,6 +1,6 @@
 ---
 title: html 5 experiment
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/08/06/html-5-experiment/
 syntaxhighlighter_encoded:

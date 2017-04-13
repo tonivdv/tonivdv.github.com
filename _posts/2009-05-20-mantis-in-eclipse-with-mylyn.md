@@ -1,6 +1,6 @@
 ---
 title: Mantis in Eclipse with Mylyn
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/05/20/mantis-in-eclipse-with-mylyn/
 syntaxhighlighter_encoded:

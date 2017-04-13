@@ -1,6 +1,6 @@
 ---
 title: Photoshop actions
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/09/30/photoshop-actions/
 categories:

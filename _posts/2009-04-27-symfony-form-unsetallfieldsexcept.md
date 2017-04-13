@@ -1,6 +1,6 @@
 ---
 title: 'Symfony Form: unsetAllFieldsExcept()'
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2009/04/27/symfony-form-unsetallfieldsexcept/
 dsq_thread_id:

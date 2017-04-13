@@ -1,6 +1,6 @@
 ---
 title: Big Money or/and Respect
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/03/13/big-money-orand-respect/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: forgotten syntaxes for MySQL
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/03/31/forgotten-syntaxes-for-mysql/
 syntaxhighlighter_encoded:

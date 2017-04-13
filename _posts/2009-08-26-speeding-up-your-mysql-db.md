@@ -1,6 +1,6 @@
 ---
 title: speeding up your mysql db
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/08/26/speeding-up-your-mysql-db/
 syntaxhighlighter_encoded:

@@ -1,6 +1,6 @@
 ---
 title: 'Interesting People &#8211; part 1: Fabien Potencier'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/04/04/interesting-people-part-1-fabien-potencier/
 syntaxhighlighter_encoded:

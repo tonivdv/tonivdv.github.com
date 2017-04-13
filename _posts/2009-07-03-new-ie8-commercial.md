@@ -1,6 +1,6 @@
 ---
 title: new IE8 commercial
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/07/03/new-ie8-commercial/
 syntaxhighlighter_encoded:

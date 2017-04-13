@@ -1,6 +1,6 @@
 ---
 title: Automate Jenkins
-author: Van de Voorde Toni
+author: tonivdv
 excerpt: Improve your internal development processes by using Jenkins together with the Job DSL Plugin
 layout: post
 permalink: /2014/09/23/automate-jenkins/
@@ -17,7 +17,7 @@ tags:
   - jenkins
   - test
 ---
-<img class="alignright" style="border: 0;" src="http://www.praqma.com/sites/default/files/img/cool-jenkins2x3.png" alt="jenkins is cool" width="214" height="147" />
+<img class="alignright" style="border: 0;" src="/images/posts/2014/jenkinsci-cool.png" alt="jenkins is cool" width="214" height="147" />
 
 Jenkins is a powerful <a title="continuous integration" href="http://en.wikipedia.org/wiki/Continuous_integration" target="_blank">continuous integration</a> server which has been around for some time now. I&#8217;ve been personally using it for years and it never let me down.
 
@@ -31,7 +31,8 @@ The <a title="Job DSL Plugin" href="https://wiki.jenkins-ci.org/display/JENKINS/
 
 This following DSL will create a job based on the branches it finds on a subversion repository.
 
-<pre class="brush: groovy; title: ; notranslate" title="">svnCommand = "svn list --xml svn://url_path/branches"
+```groovy
+svnCommand = "svn list --xml svn://url_path/branches"
 def proc = svnCommand.execute()
 proc.waitFor()
 def xmlOutput = proc.in.text
@@ -61,13 +62,14 @@ listOfBranches.each(){
     }
   }
 }
-</pre>
+```
 
 **Generate jobs based on a static list**
 
 If you have several libraries which need to be configured exactly in the same way, you could also make use of a static list.
 
-<pre class="brush: groovy; title: ; notranslate" title="">def systems = ["linux","windows","osx"];
+```groovy
+def systems = ["linux","windows","osx"];
 
 // Configure the jobs for each system
 systems.each() {
@@ -86,7 +88,7 @@ job(type: Maven) {
     goals("-U clean deploy")
   }
 };
-</pre>
+```
 
 As you can see you can achieve some very powerful automations with the <a title="Job DSL Plugin" href="https://wiki.jenkins-ci.org/display/JENKINS/Job+DSL+Plugin" target="_blank">Job DSL Plugin</a>.
 

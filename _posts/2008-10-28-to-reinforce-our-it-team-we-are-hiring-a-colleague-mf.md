@@ -1,6 +1,6 @@
 ---
 title: To reinforce our IT team, we are hiring a colleague (M/F)
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/10/28/to-reinforce-our-it-team-we-are-hiring-a-colleague-mf/
 categories:

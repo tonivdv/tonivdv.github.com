@@ -1,6 +1,6 @@
 ---
 title: 'RabbitMQ Messaging Application Development How-to [Instant]'
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2013/06/27/rabbitmq-messaging-application-development-how-to/
 shareaholic_disable_share_buttons:

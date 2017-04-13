@@ -1,6 +1,6 @@
 ---
 title: Google Chrome
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/09/03/google-chrome/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: What browser should you use?
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/04/02/what-browser-should-you-use/
 syntaxhighlighter_encoded:

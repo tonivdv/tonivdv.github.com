@@ -1,6 +1,6 @@
 ---
 title: 'Quartz: test a cron expression'
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2009/08/18/quartz-test-a-cron-expression/
 syntaxhighlighter_encoded:

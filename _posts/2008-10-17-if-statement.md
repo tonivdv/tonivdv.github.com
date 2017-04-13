@@ -1,6 +1,6 @@
 ---
 title: if statement
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/10/17/if-statement/
 categories:

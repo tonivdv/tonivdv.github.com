@@ -1,6 +1,6 @@
 ---
 title: Read from Excel in ASP
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/10/14/read-from-excel-in-asp/
 syntaxhighlighter_encoded:

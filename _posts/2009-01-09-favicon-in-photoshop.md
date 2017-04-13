@@ -1,6 +1,6 @@
 ---
 title: favicon in photoshop
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/01/09/favicon-in-photoshop/
 categories:

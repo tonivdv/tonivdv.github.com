@@ -1,6 +1,6 @@
 ---
 title: Connectivity study
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/09/18/connectivity-study/
 syntaxhighlighter_encoded:

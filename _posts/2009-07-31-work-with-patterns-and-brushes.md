@@ -1,6 +1,6 @@
 ---
 title: Work with patterns and brushes
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/07/31/work-with-patterns-and-brushes/
 syntaxhighlighter_encoded:

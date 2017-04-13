@@ -1,6 +1,6 @@
 ---
 title: Namespace seperator
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/10/28/namespace-seperator/
 categories:

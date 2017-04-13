@@ -1,6 +1,6 @@
 ---
 title: 'Tables: use or don&#8217;t use'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/09/16/tables-use-or-dont-use/
 categories:

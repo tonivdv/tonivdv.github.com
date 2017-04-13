@@ -1,23 +1,53 @@
 ---
-layout: default
+layout: main
+title: "Home"
+
+my_projects:
+    - { name: docker-machine-nfs, description: "Activates NFS on docker-machine.", url: "https://github.com/adlogix/docker-machine-nfs" }
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+<ul class="posts" itemscope itemtype="http://schema.org/Blog">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    {% if post.next %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+    {% endif %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+    {% if forloop.first %}
+    <li>
+        <h2 class="title">{{ post.date | date: '%Y' }}</h2>
+        <ul class="posts-by-year {{ post.date | date: '%Y' }}">
+    {% else %}
+    {% if year != nyear %}
+        </ul>
+    </li>
+    <li>
+        <h2 class="title">{{ post.date | date: '%Y' }}</h2>
+        <ul class="posts-by-year {{ post.date | date: '%Y' }}">
+    {% endif %}
+    {% endif %}
+    <li itemscope itemtype="http://schema.org/BlogPosting" class="post-title">
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="hide-on-mobile">
+            <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}" />
+            {{ post.date | date: '%d %b' }}
+        </time>
+        <span class="separator hide-on-mobile"> &raquo; </span><a itemprop="headline" itemprop="name" href="{{ post.url }}" class="link">{{ post.title }}</a>
+    </li>
+
+    {% if forloop.last %}
+        </ul>
+    </li>
+    {% endif %}
     {% endfor %}
-  </ul>
+</ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<h2 class="title">Highlighted Projects</h2>
 
-</div>
+<ul class="projects">
+    {% for project in page.my_projects %}
+    <li>
+        <a href="{% if project.url %}{{ project.url }}{% else %}{{ site.my_github }}/{{ project.name }}{% endif %}">{{ project.name }}</a>
+        <span class="description hide-on-mobile">&raquo; {{ project.description }}</span>
+    </li>
+    {% endfor %}
+</ul>

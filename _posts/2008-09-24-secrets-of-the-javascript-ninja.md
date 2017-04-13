@@ -1,6 +1,6 @@
 ---
 title: Secrets of the JavaScript Ninja
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/09/24/secrets-of-the-javascript-ninja/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: How to force symfony colors on windows with PuttyCyg?
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2009/09/22/how-to-force-symfony-colors-on-windows-with-cygwinputtycyg/
 dsq_thread_id:

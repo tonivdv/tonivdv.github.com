@@ -1,6 +1,6 @@
 ---
 title: 3 tips when using jQuery
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/09/29/3-tips-when-using-jquery/
 categories:

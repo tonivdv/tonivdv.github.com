@@ -1,6 +1,6 @@
 ---
 title: 'Symfony Forms Framework: Merge 2 forms'
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2009/03/19/symfony-forms-framework-merge-2-forms/
 dsq_thread_id:

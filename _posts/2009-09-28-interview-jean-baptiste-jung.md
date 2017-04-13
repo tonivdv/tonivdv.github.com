@@ -1,6 +1,6 @@
 ---
 title: 'Interview: Jean-Baptiste Jung'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/09/28/interview-jean-baptiste-jung/
 syntaxhighlighter_encoded:

@@ -1,6 +1,6 @@
 ---
 title: Comments to the max
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/04/22/comments-to-the-max/
 syntaxhighlighter_encoded:

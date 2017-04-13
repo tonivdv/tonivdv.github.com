@@ -1,6 +1,6 @@
 ---
 title: Easy SSH tunneling with Putty
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2012/11/27/easy-ssh-tunneling-with-putty/
 shareaholic_disable_share_buttons:
@@ -26,8 +26,6 @@ tags:
   - remote
   - ssh
 ---
-<img alt="" src="http://cs.payap.ac.th/bob/images/putty.png" title="Putty Logo" class="alignright" width="128" height="128" />Need to access a MySQL server, a RabbitMQ management server or any other (web) server configured on a dedicated/virtual server which is not (or you don&#8217;t want to) open to the outside world?
-
 A simple SSH connection and Putty makes this possible:
 
 **1. Requirements**

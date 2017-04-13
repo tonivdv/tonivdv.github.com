@@ -1,6 +1,6 @@
 ---
 title: 'Green programming &#8211; contribution to the environment'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/02/04/green-programming-contribution-to-the-environment/
 categories:

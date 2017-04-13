@@ -1,33 +1,73 @@
 ---
-layout: default
+layout: main
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<div class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
 
-  <article class="post-content">
+  <span class="post-date">
+    {% if page.date %}
+    <time pubdate="pubdate" datetime="{{ page.date | date_to_xmlschema }}">
+      <meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}" />
+      {{ page.date | date_to_long_string }}
+    </time>
+    {% endif %}{% if page.location %} &mdash; {{ page.location }}{% endif %}
+  </span>
+
+  {% if page.audio == true %}
+  <div class="post-audio">
+    <audio itemprop="audio" src="/mp3/{{ page.id|remove_first:'/'|replace:'/','-' }}.mp3" controls preload></audio>
+  </div>
+  {% endif %}
+
+  {% if page.tldr %}
+  <div class="post-shortcuts">
+    <p>Jump to: <a href="#tldr">TL;DR</a></p>
+  </div>
+  {% endif %}
+
+  <div itemprop="articleBody">
     {{ content }}
-  </article>
-  
-  <div id="disqus_thread"></div>
-    <script>
-        
-        var disqus_config = function () {
-            this.page.url = '{{ site.url }}{{ page.url }}'
-            this.page.identifier = '{% if page.disqus_identifier %}{{ page.disqus_identifier}}{% else %}{{ site.url }}{{ page.url }}{% endif %}';
-        };
-        (function() {  // DON'T EDIT BELOW THIS LINE
-            var d = document, s = d.createElement('script');
-            
-            s.src = '//devexp.disqus.com/embed.js';
-            
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
 
+  <em class="fork-and-edit">
+    By the way, if you found a typo, please <a href="http://github.com/tonivdv/tonivdv.github.com/edit/master/_posts/{{ page.url | remove_first:'/' | replace_first:'/','-' | replace_first:'/','-' |replace_first:'/','-' | remove:'/' }}.md">fork and edit this post</a>. Thank you so much! This post is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+  </em>
+
+  <p class="money">
+    <script id='fb37od7'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//button.flattr.com/view/?fid=0yxwq6&button=compact&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=20;f.width=110;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fb37od7');</script>
+  </p>
 </div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts" itemscope itemtype="http://schema.org/Blog">
+    {% for post in site.related_posts limit:8 %}
+      <li itemscope itemtype="http://schema.org/BlogPosting">
+        <h3>
+          <a href="{{ post.url }}" itemprop="name" itemprop="headline">
+            {{ post.title }}
+          </a>
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            <small><meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</small>
+          </time>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<section class="post-comments">
+  <h2>Comments</h2>
+  <div id="disqus_thread"></div>
+</section>
+
+<script type="text/javascript">
+    var disqus_shortname = 'devexp';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

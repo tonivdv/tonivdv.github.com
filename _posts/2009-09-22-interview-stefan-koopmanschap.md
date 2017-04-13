@@ -1,6 +1,6 @@
 ---
 title: 'Interview: Stefan Koopmanschap'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/09/22/interview-stefan-koopmanschap/
 categories:

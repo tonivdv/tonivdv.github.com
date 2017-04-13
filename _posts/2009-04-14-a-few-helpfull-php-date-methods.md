@@ -1,6 +1,6 @@
 ---
 title: A few helpful PHP date methods
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/04/14/a-few-helpfull-php-date-methods/
 syntaxhighlighter_encoded:

@@ -1,6 +1,6 @@
 ---
 title: Stop JPEG and GIF, start PNG
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/09/24/stop-jpeg-and-gif-start-png/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Interesting web developer tutorials and apps
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/03/26/interesting-web-developer-tutorials-and-apps/
 dsq_thread_id:

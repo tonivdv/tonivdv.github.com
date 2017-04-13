@@ -1,6 +1,6 @@
 ---
 title: How to use a symfony 1 layout from a different directory
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2011/10/28/how-to-use-a-symfony-1-layout-from-a-different-directory/
 shareaholic_disable_share_buttons:

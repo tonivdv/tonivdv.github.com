@@ -1,6 +1,6 @@
 ---
 title: hints for lists
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/01/07/hints-for-lists/
 categories:

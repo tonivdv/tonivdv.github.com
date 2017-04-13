@@ -1,6 +1,6 @@
 ---
 title: the Type Tool and the Pen Tool
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/05/25/the-type-tool-and-the-pen-tool/
 syntaxhighlighter_encoded:

@@ -1,6 +1,6 @@
 ---
 title: Storing multiple data in 1 database field with PHP serialize / unserialize
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2008/10/08/storing-multiple-data-in-1-database-field-with-php-serialize-unserialize/
 dsq_thread_id:

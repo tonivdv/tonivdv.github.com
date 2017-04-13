@@ -1,6 +1,6 @@
 ---
 title: Select element, return 2 values
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/01/30/select-element-return-2-values/
 dsq_thread_id:

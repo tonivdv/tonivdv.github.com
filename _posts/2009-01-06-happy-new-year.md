@@ -1,6 +1,6 @@
 ---
 title: Happy New Year
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/01/06/happy-new-year/
 categories:

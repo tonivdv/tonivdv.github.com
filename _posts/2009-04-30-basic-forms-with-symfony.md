@@ -1,6 +1,6 @@
 ---
 title: Basic forms with Symfony
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/04/30/basic-forms-with-symfony/
 categories:

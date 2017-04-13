@@ -1,6 +1,6 @@
 ---
 title: 'PHP DOMDocument: Convert Array to Xml'
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2009/04/11/php-domdocument-convert-array-to-xml/
 syntaxhighlighter_encoded:

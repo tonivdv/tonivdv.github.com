@@ -1,6 +1,6 @@
 ---
 title: Useful Propel criteria methods and constants
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/04/06/useful-propel-criteria-methods-and-constants/
 syntaxhighlighter_encoded:

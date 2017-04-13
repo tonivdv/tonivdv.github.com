@@ -1,6 +1,6 @@
 ---
 title: jQuery API browser
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/01/23/jquery-api-browser/
 categories:

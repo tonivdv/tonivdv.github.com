@@ -1,6 +1,6 @@
 ---
 title: The painfull truth
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/05/12/the-painfull-truth/
 syntaxhighlighter_encoded:

@@ -1,13 +1,32 @@
-title: Devexp
-email: toni.vdv@gmail.com
-description: "DEVelopment EXPerience, shared with the world!"
-baseurl: "" 
-url: "http://www.devexp.eu"
-twitter_username: tonivdv
-github_username:  tonivdv
+# Site wide configuration
 
-markdown: kramdown
-
+safe: true
+permalink: pretty
 exclude:   [ README.md, Gemfile, vendor, .*, bower.json ]
 
-highlighter: pygments
+title: "Toni Van de Voorde"
+description: |
+  Hi! I'm <a href="http://www.twitter.com/tonivdv">Toni</a>.
+  <br>
+  <br>
+  CTO <a href="https://twitter.com/Adlogix">@Adlogix</a>. Love coding, travelling, photography, aviation and most importantly wife and kids.
+  <br>
+  <br>
+  <small>
+  <a href="mailto:toni.vdv@gmail.com">toni.vdv@gmail.com</a>
+  </small>
+
+url: "http://www.devexp.eu"
+
+# About/contact
+author:
+  name: Toni Van de Voorde
+  email: toni.vdv@gmail.com
+
+my_linkedin: http://linkedin.com/in/tonivandevoorde
+my_github:   http://www.github.com/tonivdv
+my_twitter:  http://www.twitter.com/tonivdv
+
+# Jekyll configuration
+gems:
+  - jemoji

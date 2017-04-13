@@ -1,6 +1,6 @@
 ---
 title: Subversion
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/01/21/subversion/
 categories:

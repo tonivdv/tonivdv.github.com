@@ -1,6 +1,6 @@
 ---
 title: 'MOTB &#8211; Month of Twitter Bugs'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/06/19/motb-month-of-twitter-bugs/
 syntaxhighlighter_encoded:

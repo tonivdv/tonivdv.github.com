@@ -1,6 +1,6 @@
 ---
 title: 'Head first: Software development'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/09/23/head-first-software-development/
 categories:

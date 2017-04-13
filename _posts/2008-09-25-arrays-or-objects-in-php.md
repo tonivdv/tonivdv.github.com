@@ -1,6 +1,6 @@
 ---
 title: Arrays or objects in PHP?
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/09/25/arrays-or-objects-in-php/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Complexity in webdesign
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/03/18/complexity-in-webdesign/
 categories:

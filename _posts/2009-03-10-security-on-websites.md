@@ -1,6 +1,6 @@
 ---
 title: Security on websites
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/03/10/security-on-websites/
 categories:

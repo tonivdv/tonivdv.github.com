@@ -1,6 +1,6 @@
 ---
 title: new PHP meeting
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/06/17/new-php-meeting/
 syntaxhighlighter_encoded:

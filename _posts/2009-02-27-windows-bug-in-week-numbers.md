@@ -1,6 +1,6 @@
 ---
 title: Windows bug in week numbers
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/02/27/windows-bug-in-week-numbers/
 dsq_thread_id:

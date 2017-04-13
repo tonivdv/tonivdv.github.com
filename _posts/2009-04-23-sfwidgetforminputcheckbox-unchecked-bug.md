@@ -1,6 +1,6 @@
 ---
 title: sfWidgetFormInputCheckbox unchecked bug
-author: Van de Voorde Toni
+author: tonivdv
 layout: post
 permalink: /2009/04/23/sfwidgetforminputcheckbox-unchecked-bug/
 syntaxhighlighter_encoded:

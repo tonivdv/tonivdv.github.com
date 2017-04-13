@@ -1,6 +1,6 @@
 ---
 title: 'The grass is always greener&#8230; in the GooglePlex'
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2009/04/10/the-grass-is-always-greener-in-the-googleplex/
 syntaxhighlighter_encoded:

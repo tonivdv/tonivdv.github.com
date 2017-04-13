@@ -1,6 +1,6 @@
 ---
 title: Sumo Paint
-author: van Rumste Kenneth
+author: kennethvr
 layout: post
 permalink: /2008/11/02/sumo-paint/
 categories:
