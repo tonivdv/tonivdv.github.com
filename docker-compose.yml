@@ -4,7 +4,7 @@ services:
 
     jekyll:
         image: jekyll/jekyll:pages
-        command: jekyll serve --watch --incremental
+        command: jekyll serve --watch --incremental --drafts
         ports:
             - 4000:4000
         environment:

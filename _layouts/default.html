@@ -32,6 +32,8 @@
     <script>window.jQuery || document.write('<script src="/js/jquery-1.6.2.min.js"><\/script>')</script>
     <script src="/js/jquery.ui.totop.js" type="text/javascript"></script>
     <script src="/js/anchorify.js" type="text/javascript"></script>
+
+    {% if jekyll.environment == "production" %}
     <script>
       $().UItoTop();
       $('.post h2, .post h3, .post h4, .post h5, .post h6').anchorify();
@@ -61,5 +63,7 @@
       ga('send', 'pageview');
 
     </script>
+    {% endif %}
+
   </body>
 </html>
