@@ -1,6 +1,7 @@
 ---
 title: The helpful design patterns
 author: kennethvr
+deprecated: true
 layout: post
 permalink: /2008/09/15/the-helpfull-factory-pattern/
 categories:

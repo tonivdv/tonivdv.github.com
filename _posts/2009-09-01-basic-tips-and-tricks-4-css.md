@@ -2,6 +2,7 @@
 title: 'Basic tips and tricks: 4.Css'
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/09/01/basic-tips-and-tricks-4-css/
 syntaxhighlighter_encoded:
   - 1

@@ -2,6 +2,7 @@
 title: A few helpful PHP date methods
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/04/14/a-few-helpfull-php-date-methods/
 syntaxhighlighter_encoded:
   - 1

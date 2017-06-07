@@ -2,6 +2,7 @@
 title: conversion of dates
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/03/06/conversion-of-dates/
 categories:
   - General

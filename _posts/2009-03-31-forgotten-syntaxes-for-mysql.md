@@ -2,6 +2,7 @@
 title: forgotten syntaxes for MySQL
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/03/31/forgotten-syntaxes-for-mysql/
 syntaxhighlighter_encoded:
   - 1

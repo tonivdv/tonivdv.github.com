@@ -2,6 +2,7 @@
 title: 3 tips when using jQuery
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/09/29/3-tips-when-using-jquery/
 categories:
   - Javascript

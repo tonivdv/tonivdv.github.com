@@ -109,11 +109,6 @@ p {
   margin-bottom: 1rem;
 }
 
-strong {
-  color: #303030;
-}
-
-
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
@@ -275,13 +270,16 @@ tbody tr:nth-child(odd) th {
  */
 
 .message {
-  width: 85%;
-  margin: 1rem auto;
-  padding: 0.5rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
   color: #717171;
-  background-color: transparent;
-  text-align: center;
-  font-size: 80%;
+  background-color: #f9f9f9;
+}
+
+.message-warning {
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-color: #faebcc;
 }
 
 

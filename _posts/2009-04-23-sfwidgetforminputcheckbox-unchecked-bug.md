@@ -2,6 +2,7 @@
 title: sfWidgetFormInputCheckbox unchecked bug
 author: tonivdv
 layout: post
+deprecated: true
 permalink: /2009/04/23/sfwidgetforminputcheckbox-unchecked-bug/
 syntaxhighlighter_encoded:
   - 1

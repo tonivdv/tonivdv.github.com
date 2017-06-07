@@ -2,6 +2,7 @@
 title: Google Chrome
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/09/03/google-chrome/
 categories:
   - Javascript

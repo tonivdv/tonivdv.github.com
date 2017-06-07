@@ -2,6 +2,7 @@
 title: Security on websites
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/03/10/security-on-websites/
 categories:
   - General

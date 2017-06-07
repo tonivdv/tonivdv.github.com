@@ -2,6 +2,7 @@
 title: Complexity in webdesign
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/03/18/complexity-in-webdesign/
 categories:
   - General

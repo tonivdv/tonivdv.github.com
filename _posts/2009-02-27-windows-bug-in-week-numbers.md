@@ -2,6 +2,7 @@
 title: Windows bug in week numbers
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/02/27/windows-bug-in-week-numbers/
 dsq_thread_id:
   - 3852237971

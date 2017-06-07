@@ -2,6 +2,7 @@
 title: To reinforce our IT team, we are hiring a colleague (M/F)
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/10/28/to-reinforce-our-it-team-we-are-hiring-a-colleague-mf/
 categories:
   - css

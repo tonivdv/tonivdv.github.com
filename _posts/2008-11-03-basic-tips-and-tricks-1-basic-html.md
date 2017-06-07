@@ -2,6 +2,7 @@
 title: 'basic tips and tricks: 1. Basic HTML'
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/11/03/basic-tips-and-tricks-1-basic-html/
 syntaxhighlighter_encoded:
   - 1

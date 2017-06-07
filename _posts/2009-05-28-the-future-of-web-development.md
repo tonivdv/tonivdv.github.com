@@ -2,6 +2,7 @@
 title: the future of web development
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/05/28/the-future-of-web-development/
 syntaxhighlighter_encoded:
   - 1

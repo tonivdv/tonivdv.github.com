@@ -2,6 +2,7 @@
 title: Stop JPEG and GIF, start PNG
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/09/24/stop-jpeg-and-gif-start-png/
 categories:
   - css

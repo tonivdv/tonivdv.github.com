@@ -2,6 +2,7 @@
 title: enhance your css
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/03/19/enhance-your-css/
 categories:
   - css

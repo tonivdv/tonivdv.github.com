@@ -2,6 +2,7 @@
 title: Sumo Paint
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/11/02/sumo-paint/
 categories:
   - photoshop

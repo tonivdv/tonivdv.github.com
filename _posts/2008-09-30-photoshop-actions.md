@@ -2,6 +2,7 @@
 title: Photoshop actions
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/09/30/photoshop-actions/
 categories:
   - photoshop

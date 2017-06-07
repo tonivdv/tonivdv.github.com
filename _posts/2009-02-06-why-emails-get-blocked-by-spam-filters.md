@@ -2,6 +2,7 @@
 title: why emails get blocked by spam filters
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/02/06/why-emails-get-blocked-by-spam-filters/
 categories:
   - css

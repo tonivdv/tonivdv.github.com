@@ -2,6 +2,7 @@
 title: hints for lists
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/01/07/hints-for-lists/
 categories:
   - html

@@ -2,6 +2,7 @@
 title: Mantis in Eclipse with Mylyn
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/05/20/mantis-in-eclipse-with-mylyn/
 syntaxhighlighter_encoded:
   - 1

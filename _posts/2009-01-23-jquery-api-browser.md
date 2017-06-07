@@ -2,6 +2,7 @@
 title: jQuery API browser
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/01/23/jquery-api-browser/
 categories:
   - General

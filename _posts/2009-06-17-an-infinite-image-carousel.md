@@ -2,6 +2,7 @@
 title: an infinite image carousel
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/06/17/an-infinite-image-carousel/
 syntaxhighlighter_encoded:
   - 1

@@ -2,6 +2,7 @@
 title: html 5 experiment
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/08/06/html-5-experiment/
 syntaxhighlighter_encoded:
   - 1

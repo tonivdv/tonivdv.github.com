@@ -2,6 +2,7 @@
 title: 'basic tips and tricks: 2. DIV vs. TABLE'
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/11/04/basic-tips-and-tricks-2-div-vs-table/
 syntaxhighlighter_encoded:
   - 1

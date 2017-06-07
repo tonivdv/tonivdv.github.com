@@ -2,6 +2,7 @@
 title: 'Symfony Forms Framework: Change validators at runtime.'
 author: tonivdv
 layout: post
+deprecated: true
 permalink: /2009/02/15/symfony-forms-framework-change-validators-at-runtime/
 dsq_thread_id:
   - 3828085554

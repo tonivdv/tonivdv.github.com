@@ -2,6 +2,7 @@
 title: What browser should you use?
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/04/02/what-browser-should-you-use/
 syntaxhighlighter_encoded:
   - 1

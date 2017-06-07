@@ -2,6 +2,7 @@
 title: Namespace seperator
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/10/28/namespace-seperator/
 categories:
   - php

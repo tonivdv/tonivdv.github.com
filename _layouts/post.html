@@ -14,6 +14,12 @@ layout: main
     {% endif %}{% if page.location %} &mdash; {{ page.location }}{% endif %}
   </span>
 
+  {% if page.deprecated == true %}
+  <div class="message message-warning">
+      <strong>Warning!</strong> This post is either deprecated or outdated.
+  </div>
+  {% endif %}
+
   {% if page.audio == true %}
   <div class="post-audio">
     <audio itemprop="audio" src="/mp3/{{ page.id|remove_first:'/'|replace:'/','-' }}.mp3" controls preload></audio>

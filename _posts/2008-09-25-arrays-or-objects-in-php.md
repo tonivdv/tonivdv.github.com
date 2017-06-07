@@ -2,6 +2,7 @@
 title: Arrays or objects in PHP?
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/09/25/arrays-or-objects-in-php/
 categories:
   - php

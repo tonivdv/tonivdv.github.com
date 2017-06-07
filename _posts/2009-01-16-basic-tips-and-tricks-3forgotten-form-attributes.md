@@ -2,6 +2,7 @@
 title: 'basic tips and tricks: 3.Forgotten form attributes'
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/01/16/basic-tips-and-tricks-3forgotten-form-attributes/
 syntaxhighlighter_encoded:
   - 1

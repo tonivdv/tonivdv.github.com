@@ -2,6 +2,7 @@
 title: Select element, return 2 values
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/01/30/select-element-return-2-values/
 dsq_thread_id:
   - 3828085555

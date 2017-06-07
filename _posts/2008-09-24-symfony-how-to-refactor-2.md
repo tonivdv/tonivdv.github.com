@@ -2,6 +2,7 @@
 title: 'Symfony: How to refactor'
 author: tonivdv
 layout: post
+deprecated: true
 permalink: /2008/09/24/symfony-how-to-refactor-2/
 categories:
   - css

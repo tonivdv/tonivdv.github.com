@@ -2,6 +2,7 @@
 title: Comments to the max
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/04/22/comments-to-the-max/
 syntaxhighlighter_encoded:
   - 1

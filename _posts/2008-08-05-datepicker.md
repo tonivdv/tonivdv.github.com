@@ -2,6 +2,7 @@
 title: UI/Datepicker
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/08/05/datepicker/
 categories:
   - Javascript

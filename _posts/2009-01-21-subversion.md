@@ -2,6 +2,7 @@
 title: Subversion
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/01/21/subversion/
 categories:
   - General

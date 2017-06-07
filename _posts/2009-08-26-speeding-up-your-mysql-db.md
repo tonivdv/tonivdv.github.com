@@ -2,6 +2,7 @@
 title: speeding up your mysql db
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/08/26/speeding-up-your-mysql-db/
 syntaxhighlighter_encoded:
   - 1

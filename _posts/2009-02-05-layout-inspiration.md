@@ -2,6 +2,7 @@
 title: layout inspiration
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/02/05/layout-inspiration/
 categories:
   - css

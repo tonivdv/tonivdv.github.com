@@ -2,6 +2,7 @@
 title: 'Tables: use or don&#8217;t use'
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/09/16/tables-use-or-dont-use/
 categories:
   - css

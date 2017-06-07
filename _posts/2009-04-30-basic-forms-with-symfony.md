@@ -2,6 +2,7 @@
 title: Basic forms with Symfony
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/04/30/basic-forms-with-symfony/
 categories:
   - php

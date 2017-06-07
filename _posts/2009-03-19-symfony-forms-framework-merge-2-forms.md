@@ -2,6 +2,7 @@
 title: 'Symfony Forms Framework: Merge 2 forms'
 author: tonivdv
 layout: post
+deprecated: true
 permalink: /2009/03/19/symfony-forms-framework-merge-2-forms/
 dsq_thread_id:
   - 3828085562

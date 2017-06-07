@@ -2,6 +2,7 @@
 title: new IE8 commercial
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/07/03/new-ie8-commercial/
 syntaxhighlighter_encoded:
   - 1

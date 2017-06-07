@@ -2,6 +2,7 @@
 title: if statement
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2008/10/17/if-statement/
 categories:
   - General

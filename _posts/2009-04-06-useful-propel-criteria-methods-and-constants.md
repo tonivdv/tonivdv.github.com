@@ -2,6 +2,7 @@
 title: Useful Propel criteria methods and constants
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/04/06/useful-propel-criteria-methods-and-constants/
 syntaxhighlighter_encoded:
   - 1

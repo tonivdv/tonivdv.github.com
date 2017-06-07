@@ -2,6 +2,7 @@
 title: 'John Resig: the messy DOM'
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/02/03/john-resig-the-messy-dom/
 categories:
   - Javascript

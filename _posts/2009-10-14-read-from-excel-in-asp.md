@@ -2,6 +2,7 @@
 title: Read from Excel in ASP
 author: kennethvr
 layout: post
+deprecated: true
 permalink: /2009/10/14/read-from-excel-in-asp/
 syntaxhighlighter_encoded:
   - 1
