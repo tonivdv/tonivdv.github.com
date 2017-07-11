@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tonivdv
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.devexp.eu
+  * I am tonivdv (https://keybase.io/tonivdv) on keybase.
+  * I have a public key ASCFIeC-vIzDl8inkJsnWOol7tNVYXNptnHxOH72cViPgQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a7aa560b0438ab373a56d90322a325f1455e934c8604047ce79ed712d46db4040a",
+            "host": "keybase.io",
+            "kid": "01208521e0bebc8cc397c8a7909b2758ea25eed355617369b671f1387ef671588f810a",
+            "uid": "32550d173c6d569d36f0a0c3fe037719",
+            "username": "tonivdv"
+        },
+        "merkle_root": {
+            "ctime": 1499759544,
+            "hash": "ab38f23c081542f2c8b9f58e358f666f4dbd34a3a94a48165d38b229ca6a6bcb32f4d99323adac35109a23ca69d3b540de241eed97a9671adb88e243c07882cd",
+            "hash_meta": "73e087381ba60991e4724ca6c701fb80c075a4032ec8b837d4b8f911570cf970",
+            "seqno": 1224680
+        },
+        "service": {
+            "hostname": "www.devexp.eu",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1499759566,
+    "expire_in": 504576000,
+    "prev": "41f65314f9606058a71c0fa1a3388ff773d8ce4f499f61ace8775f7c3970e61e",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghSHgvryMw5fIp5CbJ1jqJe7TVWFzabZx8Th+9nFYj4EKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYTdhYTU2MGIwNDM4YWIzNzNhNTZkOTAzMjJhMzI1ZjE0NTVlOTM0Yzg2MDQwNDdjZTc5ZWQ3MTJkNDZkYjQwNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODUyMWUwYmViYzhjYzM5N2M4YTc5MDliMjc1OGVhMjVlZWQzNTU2MTczNjliNjcxZjEzODdlZjY3MTU4OGY4MTBhIiwidWlkIjoiMzI1NTBkMTczYzZkNTY5ZDM2ZjBhMGMzZmUwMzc3MTkiLCJ1c2VybmFtZSI6InRvbml2ZHYifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTk3NTk1NDQsImhhc2giOiJhYjM4ZjIzYzA4MTU0MmYyYzhiOWY1OGUzNThmNjY2ZjRkYmQzNGEzYTk0YTQ4MTY1ZDM4YjIyOWNhNmE2YmNiMzJmNGQ5OTMyM2FkYWMzNTEwOWEyM2NhNjlkM2I1NDBkZTI0MWVlZDk3YTk2NzFhZGI4OGUyNDNjMDc4ODJjZCIsImhhc2hfbWV0YSI6IjczZTA4NzM4MWJhNjA5OTFlNDcyNGNhNmM3MDFmYjgwYzA3NWE0MDMyZWM4YjgzN2Q0YjhmOTExNTcwY2Y5NzAiLCJzZXFubyI6MTIyNDY4MH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZGV2ZXhwLmV1IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTQ5OTc1OTU2NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI0MWY2NTMxNGY5NjA2MDU4YTcxYzBmYTFhMzM4OGZmNzczZDhjZTRmNDk5ZjYxYWNlODc3NWY3YzM5NzBlNjFlIiwic2Vxbm8iOjIwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFq25kg21/XKCD6YypGLet06JWiYH5QruErgWrE6SmnjxqcldnUYPYVmDQuyxOrzPytl+v5HqyYmjOsUzbKK9gWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBVq0VIyp+Jxa+QTyaFFPeZ4NtrayKHdVN7hFf9pc9a4KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tonivdv
+
+==================================================================
